@@ -1,6 +1,7 @@
 <?php
 /** Implementación del patron de diseño Strategy
  *  Se utiliza para encapsular la lógica de negocio en clases independientes
+ * Mas información en: https://refactoring.guru/es/design-patterns/strategy
  */
 
  /** Interface que define la lógica de negocio */
